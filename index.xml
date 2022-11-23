@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>笠！</title>
+    <link>https://Namele2s.github.io/</link>
+    <description>Recent content on 笠！</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>&amp;copy; 2022
+</copyright>
+    <lastBuildDate>Tue, 22 Nov 2022 21:28:44 +0800</lastBuildDate><atom:link href="https://Namele2s.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello</title>
+      <link>https://Namele2s.github.io/posts/hello/</link>
+      <pubDate>Tue, 22 Nov 2022 21:28:44 +0800</pubDate>
+      
+      <guid>https://Namele2s.github.io/posts/hello/</guid>
+      <description>汉字测试 汉字测试 汉字测试、汉字测试、汉字测试 Printf(&amp;quot;Hello,World!&amp;quot;); 这是有序列表 这是有序列表 这是无序列表 这是无序列表</description>
+    </item>
+    
+  </channel>
+</rss>
